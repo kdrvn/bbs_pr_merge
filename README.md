@@ -1,0 +1,1 @@
+This repository is used to demo the different PR merge strategies & discuss related GitHub settings.
